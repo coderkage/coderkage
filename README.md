@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @coderkage
+- 👀 I’m interested in coding, literature and different kinds of art
+- 🌱 I’m currently learning c and python 
+- 💞️ I’m looking to collaborate on any kind of new and innovative things
+- 📫 How to reach me -- mail - deeppatel03.com@gmail.com
+
+<!---
+coderkage/coderkage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
