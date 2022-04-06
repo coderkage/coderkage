@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderkage
 - 👀 I’m interested in coding, literature and different kinds of art
 - 🌱 I’m currently learning c and python 
-- 💞️ I’m looking to collaborate on any kind of new and innovative things
+- 💞️ I’m looking to collaborate on any kind of new and innovative projects and ideas.
 - 📫 How to reach me -- mail - deeppatel03.com@gmail.com
 
 <!---
