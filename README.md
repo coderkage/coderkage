@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderkage
-- 👀 I’m interested in coding, game development and AI/ML.
+- 👀 I’m interested in web dev and AI/ML.
 - 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on any kind of new and innovative projects and ideas.
 - 📫 How to reach me -- mail - deeppatel03.com@gmail.com
