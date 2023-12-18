@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderkage
+- 👋 Hi, I’m Deep Patel.
 - 👀 I’m interested in web dev and AI/ML.
 - 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on any kind of new and innovative projects and ideas.
