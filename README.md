@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any kind of new and innovative projects and ideas related to AI/ML.**
 
-- 📫 How to reach me -- mail - deeppatel03.com@gmail.com
+- 📫 How to reach me -- mail - deeppatel3910@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
