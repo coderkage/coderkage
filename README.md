@@ -28,14 +28,11 @@
 ```python
 deep = {
     "name"       : "Deep Patel",
-    "education"  : "B.Tech CSE — IIIT Raichur | M.Sc. CS aspirant @ TUM",
+    "education"  : "B.Tech CSE '25 — IIIT Raichur",
     "research"   : ["Robust ML Systems", "NLP", "Quantum Neural Networks",
                     "Geospatial AI", "Data-centric Intelligence"],
-    "published"  : "ACIIDS 2025 (Springer) — Earthquake Response Analysis with AI",
-    "gate_2025"  : "AIR 512 / ~70,000 candidates — Data Science & AI",
-    "gre"        : "310/340 | Quant: 165/170",
     "current"    : "Building systems that don't just work in eval — they work in the field.",
-    "ask_me_about": ["LLMs", "ML Pipelines", "Quantum ML", "Data Engineering"],
+    "ask_me_about": ["Data Engineering", "LLMs", "ML Pipelines", "Quantum ML"],
 }
 ```
 
@@ -91,21 +88,6 @@ Simulation-based models for urban traffic flow optimization under real-world ban
 </table>
 
 ---
-
-## 💼 Experience
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  DEV IT                │ Data Engineer                           ║
-║  Sadbhav Foundation    │ Associate — AI & Data Science           ║
-║  Tarutium Global       │ Software Development Intern             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-Production ML deployments, scalable data pipelines, computer vision systems, and a hard-learned lesson: the real challenge in AI isn't building the model — it's keeping it alive in production.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -162,27 +144,11 @@ Production ML deployments, scalable data pipelines, computer vision systems, and
 
 ---
 
-## 🏆 Highlights
-
-<div align="center">
-
-| 🎓 | B.Tech CSE — IIIT Raichur | 79.9% overall · 91.25% final year |
-|---|---|---|
-| 📝 | GATE 2025 — DS & AI | **AIR 512** / ~70,000 candidates |
-| 📐 | GRE | 310/340 · Quant **165**/170 |
-| 📄 | Published Paper | ACIIDS 2025, Springer |
-| 🎯 | JEE | Top 5% of ~100,000 candidates |
-
-</div>
-
----
-
 ## 📡 Currently
 
 - 🔭 Working on **robust, interpretable ML systems** for real-world deployment
 - 🌱 Deepening expertise in **LLM evaluation, data-centric AI, and quantum ML**
 - 📬 Open to **research collaborations, interesting problems, and good conversations**
-- 🎯 Applying to **M.Sc. Computer Science at TUM** — Munich, next chapter
 
 ---
 
